@@ -1,0 +1,2 @@
+# datasciencetask_01
+By using a dataset of ~40,000 cab rides provided by a cab riding company, the goal of the task is to make a strategy to increase utilization rates of cabs by understanding the dataset &amp; leveraging data science libraries &amp; methods to figure out how to minimize cab cancellations, increase/decrease price rates of cabs at some areas to meet the demand &amp; other possible solutions to increase cab utlilizations. 
